@@ -1,4 +1,4 @@
-# python-Claculator
+# python-While Loop
 Python tutorial Create while Loop
 
 New Course Python while Loop
